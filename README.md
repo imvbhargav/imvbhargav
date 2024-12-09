@@ -19,15 +19,15 @@ Check out my [portfolio](https://bhargavvjois.github.io/Portfolio/)
 Or connect with me on [LinkedIn](https://linkedin.com/in/imvbhargav)
 
 ### Skills
-> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imvbhargav&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
->
-> #### More Languages - 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imvbhargav&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+<br>
+#### More Languages - 
 > Java, C/C++, PHP and Rust.
-> #### Frameworks - 
+#### Frameworks - 
 > Tailwindcss, SCSS, EJS, React, Django, FastAPI.
-> #### Other - 
+#### Other - 
 > Remix, NextJS, Vite, NodeJS, ExpressJS, Socket.io, WebSockets.
-> #### Database - 
+#### Database - 
 > SQL, MySQL, PostgreSQL, SQLite, MongoDB, Firebase, Supabase.
 
 
