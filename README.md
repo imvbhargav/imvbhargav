@@ -15,8 +15,8 @@ _Did not find me? Well, then I'm not there._
 - 📫 How to reach me: hellobhargavv@gmail.com.
 - ⚡ Fun fact: I write technology blog and my learnings @ [bvdevblog](https://bvdevblog.vercel.app/)
 
-Check out my [portfolio](https://bhargavvjois.github.io/Portfolio/)
-Or connect with me on [LinkedIn](https://linkedin.com/in/imvbhargav)
+Check out my [Portfolio](https://bhargavvjois.github.io/Portfolio/)
+or connect with me on [LinkedIn](https://linkedin.com/in/imvbhargav)
 
 ### Skills
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imvbhargav&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
