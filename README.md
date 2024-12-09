@@ -30,9 +30,7 @@ Or connect with me on [LinkedIn](https://linkedin.com/in/imvbhargav)
 > #### Database - 
 > SQL, MySQL, PostgreSQL, SQLite, MongoDB, Firebase, Supabase.
 
-2024 - imvbhargav
 
 ***
-
 "Code is like humor. When you have to explain it, it’s bad." <br>
 — Cory House
