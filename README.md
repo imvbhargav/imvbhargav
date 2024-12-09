@@ -1,8 +1,9 @@
 ## Guess who’s here to add a little sparkle to the day? Spoiler: It’s you!
 
-### Bhargav V
-Hello, I'm a web developer who mainly works with JS, TS and Python frameworks,
-you can connect with me on socials @imvbhargav.
+### Hello, World! This is Bhargav V,
+I'm a web developer who mainly works with JS, TS and Python frameworks, I have worked as Junior Software Engineer
+@ MIMSys Technologies Pvt, Ltd. for 1Y 6M from April 2023 till departing from there on September 2024, to persue more learning 
+opportunities in full stack development. You can connect with me on socials @imvbhargav.
 
 _Did not find me? Well, then I'm not there._
 
@@ -16,6 +17,8 @@ _Did not find me? Well, then I'm not there._
 
 Check out my [portfolio](https://bhargavvjois.github.io/Portfolio/)
 Or connect with me on [LinkedIn](https://linkedin.com/in/imvbhargav)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imvbhargav&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
 
 2024 - imvbhargav
 
