@@ -16,7 +16,7 @@ _Did not find me? Well, then I'm not there._
 - ⚡ Fun fact: I write technology blog and my learnings @ [bvdevblog](https://bvdevblog.vercel.app/)
 
 Check out my [portfolio](https://bhargavvjois.github.io/Portfolio/)
-Or meet me in [LinkedIn](https://linkedin.com/in/imvbhargav)
+Or connect with me on [LinkedIn](https://linkedin.com/in/imvbhargav)
 
 > "Code is like humor. When you have to explain it, it’s bad." 
 > — Cory House
