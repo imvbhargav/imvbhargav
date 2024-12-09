@@ -1,7 +1,7 @@
 ## Guess who’s here to add a little sparkle to the day? Spoiler: It’s you!
 
-### Hello, World! This is *Bhargav V*,
-I'm a *web developer* who mainly works with JS, TS and Python frameworks, I have worked as Junior Software Engineer
+### Hello, World! This is **Bhargav V**,
+I'm a **web developer** who mainly works with JS, TS and Python frameworks, I have worked as Junior Software Engineer
 @ MIMSys Technologies Pvt, Ltd. for 1Y 6M from April 2023 till departing from there on September 2024, to persue more learning 
 opportunities in full stack development. You can connect with me on socials @imvbhargav.
 
