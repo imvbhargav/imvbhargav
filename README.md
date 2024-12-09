@@ -1,8 +1,8 @@
 ## Guess who’s here to add a little sparkle to the day? Spoiler: It’s you!
 
-### Bhargav V
-
-Hello, I'm Bhargav V, a web developer who mainly works with JS, TS and Python frameworks,
+### Hello, I'm Bhargav V
+#### A web developer
+who mainly works with JS, TS and Python frameworks,
 You can connect with me on socials @imvbhargav
 
 _Did not find me? Well, then I'm not there._
