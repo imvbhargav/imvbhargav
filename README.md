@@ -1,9 +1,8 @@
 ## Guess who’s here to add a little sparkle to the day? Spoiler: It’s you!
 
-### Hello, I'm Bhargav V
-#### A web developer
-who mainly works with JS, TS and Python frameworks,
-You can connect with me on socials @imvbhargav
+### Bhargav V
+Hello, I'm a web developer who mainly works with JS, TS and Python frameworks,
+you can connect with me on socials @imvbhargav.
 
 _Did not find me? Well, then I'm not there._
 
@@ -18,7 +17,9 @@ _Did not find me? Well, then I'm not there._
 Check out my [portfolio](https://bhargavvjois.github.io/Portfolio/)
 Or connect with me on [LinkedIn](https://linkedin.com/in/imvbhargav)
 
+2024 - imvbhargav
+
+***
+
 > "Code is like humor. When you have to explain it, it’s bad." 
 > — Cory House
-
-2024 - imvbhargav
